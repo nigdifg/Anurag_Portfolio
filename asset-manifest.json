@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d3422f8.css",
+    "main.js": "/static/js/main.0b4db69a.js",
+    "static/media/Restorante.jpg": "/static/media/Restorante.124a1a61d8a6bc27dd34.jpg",
+    "static/media/Hero.jpeg": "/static/media/Hero.ba89811815a4e0181e34.jpeg",
+    "static/media/Readme.jpg": "/static/media/Readme.a8b9321b7e9de1653af3.jpg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.58782c0d598949d8ba9c.jpg",
+    "static/media/leetcode.jpg": "/static/media/leetcode.6998a49126e612600557.jpg",
+    "static/media/clang.png": "/static/media/clang.64f637357bce0ccc8384.png",
+    "static/media/github.png": "/static/media/github.8453913d2f0df55fa1fb.png",
+    "static/media/Quiz.jpg": "/static/media/Quiz.4ed6687bb17d9ac075e8.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/coming.jpg": "/static/media/coming.7a676d21561ba7a5b8d6.jpg",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.c5dedb5348b058d36661.png",
+    "static/media/C_Logo.png": "/static/media/C_Logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.3d3422f8.css.map": "/static/css/main.3d3422f8.css.map",
+    "main.0b4db69a.js.map": "/static/js/main.0b4db69a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3422f8.css",
+    "static/js/main.0b4db69a.js"
+  ]
+}
